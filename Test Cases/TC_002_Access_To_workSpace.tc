@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_Access_To_workSpace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e98e13-fff2-4242-a22b-7813f1f6d39a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55b4989d-798b-4842-ac79-418bf7beba01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'NumberChannel'</defaultValue>
+      <description></description>
+      <id>55b4989d-798b-4842-ac79-418bf7beba01</id>
+      <masked>false</masked>
+      <name>WorkSpaceName</name>
+   </variable>
+</TestCaseEntity>

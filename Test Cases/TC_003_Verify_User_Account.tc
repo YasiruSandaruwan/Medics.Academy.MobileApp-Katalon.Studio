@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_Verify_User_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c14e775f-2e24-470e-a145-e66c4b1f3e9f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df1dc982-027d-47bd-aaea-7874436ae7e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4f5d68f-f41e-461c-b8b2-44af7abfea6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c869cbc8-66b0-4a87-b091-c0bb50261960</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kusal'</defaultValue>
+      <description></description>
+      <id>df1dc982-027d-47bd-aaea-7874436ae7e6</id>
+      <masked>false</masked>
+      <name>FistName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Weththasinghe'</defaultValue>
+      <description></description>
+      <id>a4f5d68f-f41e-461c-b8b2-44af7abfea6c</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kusal Weththasinghe'</defaultValue>
+      <description></description>
+      <id>c869cbc8-66b0-4a87-b091-c0bb50261960</id>
+      <masked>false</masked>
+      <name>ChatDisplayName</name>
+   </variable>
+</TestCaseEntity>

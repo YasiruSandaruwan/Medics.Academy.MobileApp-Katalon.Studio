@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_Change_Profile_Pic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ef4066-b170-4da7-a237-fb9712cd444f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97b3d575-7e4c-4648-9f24-87ca81df7fe5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kusal'</defaultValue>
+      <description></description>
+      <id>97b3d575-7e4c-4648-9f24-87ca81df7fe5</id>
+      <masked>false</masked>
+      <name>ProfilePic</name>
+   </variable>
+</TestCaseEntity>
